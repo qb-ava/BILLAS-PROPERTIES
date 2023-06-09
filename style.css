@@ -1,0 +1,40 @@
+.content_box {
+    left: 2.4%;
+    font-size: 6dvh;
+    text-align: center;
+    height: 45vh;
+    width: 95dvw;
+    background-color: rgba(0, 0, 0, 0.185);
+    backdrop-filter: blur(3vh);
+    position: absolute;
+    border-radius: 2vh;
+}
+
+.txt {
+    font-size: 10dvh;
+    font-weight: 900;
+    margin-bottom: -1%;
+}
+
+.txt1 {
+    font-size: 3.3vh;
+}
+
+#aaa {
+    margin-top: -1vw;
+    margin-left: -1vw;
+    margin-right: -1vw;
+    margin-bottom: -0.4vw;
+    background-repeat: no-repeat;
+    width: 100.5vw;
+    height: 101vh;
+}
+
+.foot_txt {
+    color: white;
+    text-decoration: none;
+}
+
+.foot_txt:hover {
+    color: tomato;
+}
